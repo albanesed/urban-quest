@@ -45,3 +45,10 @@ coverage/
 # misc
 *.tsbuildinfo
 next-env.d.ts
+
+# local-only planning docs, not for the remote
+CLAUDE.md
+plan.md
+research.md
+ralph-loop-research-summary.md
+supabase/.gitignore
